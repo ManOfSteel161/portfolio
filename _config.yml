@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Phutanate Khoosirirat
+logo: /assets/img/phutanate.png
 theme: jekyll-theme-minimal
